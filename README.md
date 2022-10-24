@@ -8,4 +8,7 @@ different sections in the website and different Bootstrap classes for responsive
 approach.
 
 ● Displayed testimonials from different people using bootstrap carousel components.
+
 Technologies used: HTML, CSS, Bootstrap.
+
+Project link: https://pramodportf.ccbp.tech/
